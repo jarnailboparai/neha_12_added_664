@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgb(64, 205, 105) 1% , rgb(200, 52, 52) 80%);
-background: -o-linear-gradient(left , rgb(64, 205, 105) 1% , rgb(200, 52, 52) 80%);
-background: -ms-linear-gradient(left , rgb(64, 205, 105) 1% , rgb(200, 52, 52) 80%);
-background: -moz-linear-gradient(left , rgb(64, 205, 105) 1% , rgb(200, 52, 52) 80%);
-background: -webkit-linear-gradient(left , rgb(64, 205, 105) 1% , rgb(200, 52, 52) 80%);
+	background: radial-gradient(left top , circle cover , rgb(33, 96, 51) 1% , rgb(200, 52, 52) 80%);
+background: -o-radial-gradient(left top , circle cover , rgb(33, 96, 51) 1% , rgb(200, 52, 52) 80%);
+background: -ms-radial-gradient(left top , circle cover , rgb(33, 96, 51) 1% , rgb(200, 52, 52) 80%);
+background: -moz-radial-gradient(left top , circle cover , rgb(33, 96, 51) 1% , rgb(200, 52, 52) 80%);
+background: -webkit-radial-gradient(left top , circle cover , rgb(33, 96, 51) 1% , rgb(200, 52, 52) 80%);
 }
 
 
